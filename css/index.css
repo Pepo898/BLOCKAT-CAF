@@ -1,0 +1,63 @@
+body{
+    overflow-x: hidden;
+    background-color:#f0f2f5;
+}
+
+
+h2{
+    color: rgb(22, 131, 240);
+    font-size: 40px;
+    position: relative;
+    top: 200px;
+    left: 50px;
+}
+.input input{
+    width: 330px;
+    height: 50px;
+    border-radius: 5px;
+    z-index: 99;
+    position: relative;
+    left: 51%;
+    top: -330px;
+}
+input{
+    width: 330px;
+    height: 50px;
+    border-radius: 5px;
+    z-index: 99;
+    position: relative;
+    left: 51%;
+    top: -330px;
+}
+.input .pass{
+position: relative;
+right: 50px;
+}
+.input input:hover{
+    border-color:rgb(22, 131, 240) ;
+}
+.input{
+    position: relative;
+    top: 350px;
+}
+.pp{
+    background-color: rgb(22, 131, 240) ;
+    color: #f0f2f5;
+    font-size: 20px;
+}
+a{
+    color: rgb(22, 131, 240) ;
+    position: relative;
+    left: 32%;
+    top:350px;
+    text-decoration: none;
+}
+.sp{
+    position: relative;
+    right: 50px;
+ }
+ .dfd{
+    position: relative;
+    left: 60%;
+    top: 50px;
+ }
